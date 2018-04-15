@@ -76,7 +76,7 @@ More of a "workday" town, but still definitely worth a visit. Has a nice towny h
 |Hotels|$120 - 190/night|
 |Dinner|$15 - 30/person|
 
-Recommended breakfast by Rick Steves is the Bar Centrale or Giammi Cafe. Trip advisor also recommends (Cafe Matteo)[https://www.tripadvisor.com/Restaurant_Review-g187818-d1111564-Reviews-Caffe_Matteo-Corniglia_Cinque_Terre_Italian_Riviera_Liguria.html] for breakfast.
+Recommended breakfast by Rick Steves is the Bar Centrale or Giammi Cafe. Trip advisor also recommends [Cafe Matteo](https://www.tripadvisor.com/Restaurant_Review-g187818-d1111564-Reviews-Caffe_Matteo-Corniglia_Cinque_Terre_Italian_Riviera_Liguria.html) for breakfast.
 
 #### Cinque Terre: Manarola
 
