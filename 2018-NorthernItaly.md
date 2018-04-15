@@ -127,7 +127,11 @@ Based on the search dates (the end of August for valid comparisons), there were 
 
 This is a hot bed for the Italian renaissance - Michelangelo's David, and the Uffizi Gallery as quick examples. Really, this city is chock full of historic sites. The following are some things worth noting about Florence:
 
- * 
+ * I'm too bored to write more but you are at:
+ * p572 of Best of Europe
+ * p441 of Rick Steves Italy
+ * p439 of Discover Europe
+ * The internet - the internet
 
 
 
