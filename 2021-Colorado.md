@@ -8,7 +8,7 @@ General: no masks required except on public transportation or as required by ind
 WHAT SHOULD I WEAR FOR RESORT ACTIVITIES?
 At 9,000 feet, exposure to the sun is 40% greater than it is at sea level. We recommend bringing along sun protection, including sunscreen, hats and sunglasses, as well as a reusable water bottle. Afternoon thunderstorms are common in the mountains and may cause interruptions and delays in summer activities and lift operations. Lifts and activities may close on occasion due to weather conditions, causing delays. Bring a raincoat and be sure to pack a sweater and other extra layers. Keep in mind that many activities are active, so wear clothes that are easy to move around in.  Learn more about packing for your Breckenridge summer vacation.
 
-
+### What To Do
 
 | Activity       | Hours | Notes |
 | ----------- | ----- | ----------- |
@@ -24,6 +24,17 @@ At 9,000 feet, exposure to the sun is 40% greater than it is at sea level. We re
 | SPACE | LEFT | BLANK |
 
 
+### Great Eats
 
-Great Eats
-===
+I will fill this in with places to eat later.
+
+
+## Denver + Vicinity
+
+| Activity       | Hours | Notes |
+| ----------- | ----- | ----------- |
+| SPACE | LEFT | BLANK |
+| SPACE | LEFT | BLANK |
+| SPACE | LEFT | BLANK |
+
+
