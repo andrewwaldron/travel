@@ -50,3 +50,22 @@ Park and Visitor Center is FREE! Hiking is also free but looks hot and self guid
 ## Eats
 
 
+Denver
+===
+
+## General
+
+## Activities
+
+| Activity       | Hours | Notes |
+| ----------- | ----- | ----------- |
+| Denver Zoo | LEFT | BLANK |
+| Mount Evans Scenic Byway | LEFT | BLANK |
+| Denver Art Museum | LEFT | BLANK |
+| 16th St Mall | LEFT | Shopping & misc |
+| Union Station | LEFT | BLANK |
+| Rocky Mountain Arsenal | LEFT | BLANK |
+| SPACE | LEFT | BLANK |
+| SPACE | LEFT | BLANK |
+| SPACE | LEFT | BLANK |
+
