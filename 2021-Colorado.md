@@ -29,7 +29,7 @@ At 9,000 feet, exposure to the sun is 40% greater than it is at sea level. We re
 I will fill this in with places to eat later.
 
 
-Denver + Vicinity
+Colorado Springs Area
 ===
 
 ## General
@@ -38,8 +38,12 @@ Denver + Vicinity
 
 | Activity       | Hours | Notes |
 | ----------- | ----- | ----------- |
-| SPACE | LEFT | BLANK |
-| SPACE | LEFT | BLANK |
+| Pikes Peak Railway | 8am to 9pm | Cost is $58/adult and $48 per child (Over 3: Under 3 is free). Reserve online ahead and you may select seats as well for an extra $10/ticket. Typical departure times seem to be 9:20am, 10:40am, 12:40am, 1:20pm, and 2:40pm. (less times available after August 15, 2021). |
+| Garden of the gods | 8:00 am – 7:00 pm | See some cool rocks. Hike or take a jeep tour. Example jeep tour: Short-Line Off-Road Tour – 120 minutes
+A narrated tour of Garden of the Gods park, the tour further includes waterfalls, a railroad tunnel and other stunning views. $75.00 per guest Purchase tickets at the activity desk (no advanced reservations). Call 719-219-0118 for more details. Note that Admission into the
+Park and Visitor Center is FREE! Hiking is also free but looks hot and self guided. For the jeep tour: Seat belts and Car seats are not required but are recommended.  Please bring your own car seat if you need it. Note that you may get wet. |
+| Cheyenne Mountain Zoo | Daily 9:00am - 3:30pm | Advance tickets are strongly recommended. See calendar for pricing [here](https://www.cmzoo.org/wp-content/uploads/2021_CMZPricingCalendar-peak.pdf). Pricing is more for peak days and times. All individuals visiting the Zoo must have their own advance e-ticket, including children age 2 and under. No refunds or exchanges for tickets. Way beyond watching. Fair variety of animals and habitats. |
+| Manitou Incline | 6:00am to 6:30pm | Free, but reservations required in advance. Reservations are open seven days in advance. Parking costs $1/hour - Make sure to get a parking pass from the meter, tear the ticket on the marked line, leave the top part of your ticket on your dash and take the bottom section with you as your proof of parking. The free shuttle runs from Hiawatha Gardens to the Incline between the hours of 6:00am and 8:00pm: Approximately every 20 minutes between these times. Parking is at Hiawatha Gardens Parking Lot (10 Old Man’s Trail). |
 | SPACE | LEFT | BLANK |
 
 
