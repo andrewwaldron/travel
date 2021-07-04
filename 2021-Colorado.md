@@ -64,6 +64,4 @@ Denver
 | Union Station | LEFT | BLANK |
 | Rocky Mountain Arsenal | LEFT | BLANK |
 | SPACE | LEFT | BLANK |
-| SPACE | LEFT | BLANK |
-| SPACE | LEFT | BLANK |
 
